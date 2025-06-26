@@ -20,4 +20,3 @@ document.getElementById('Btn-Add-money').addEventListener('click', function (e) 
         alert('Failed to the money! Please try again.')
     }
 })
-// cash out js
